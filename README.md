@@ -33,6 +33,14 @@ $ docker container run --rm --runtime=io.containerd.wasmedge.v1 --platform=wasi/
 
 ブラウザで http://localhost:7878 にアクセスすると `Hello, World` と表示される
 
+## run.sh
+
+compile, build, executeをまとめて実行します
+
+```console
+$ ./run.sh
+```
+
 ## 参考にしたサイト
 以下を参考にしました
 
