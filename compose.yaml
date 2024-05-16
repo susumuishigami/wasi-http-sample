@@ -4,5 +4,5 @@ services:
   dev:
     build: .
     volumes:
-      - ./wasi-demo:/app
+      - ./wasi-http:/app
     working_dir: /app

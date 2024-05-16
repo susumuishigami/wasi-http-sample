@@ -9,7 +9,7 @@ const HTML: &str = r#"
   <title>ハロー</title>
 </head>
 <body>
-  Hello, World
+  こんにちは、世界！
 </body>
 </html>
 "#;
